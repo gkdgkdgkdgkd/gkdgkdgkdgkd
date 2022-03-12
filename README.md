@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm BingLing</h1>
+
+![Metrics](https://metrics.lecoq.io/gkdgkdgkdgkd?template=classic&isocalendar=1&people=1&repositories=1&languages=1&stars=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories.featured=gkdgkdgkdgkd%2FSpringBootDemoJava%2Cgkdgkdgkdgkd%2FASmallSalaryManagementSystem%2Cgkdgkdgkdgkd%2FGithub1sExtension&config.timezone=Asia%2FShanghai)
+
 <p align="center">
 🌱 I’m currently learning <strong>Spring Boot, Vue3.0 and ElementPlus</strong>.
 </p>
